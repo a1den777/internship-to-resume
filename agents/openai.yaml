@@ -1,0 +1,5 @@
+interface:
+  display_name: "实习经历提炼"
+  short_description: "从真实工作中提炼实习经历，并按招聘 JD 生成不同岗位的定制简历"
+  default_prompt: "请用 $internship-to-resume，根据我的简历、工作材料及招聘 JD，提炼真实贡献并生成岗位定制稿，说明重点改动、匹配依据和关键缺口。"
+
